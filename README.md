@@ -30,4 +30,4 @@ TypeScript · React 19 · Next.js · Three.js / React Three Fiber · Node.js · 
 
 ⚡ Fun fact: I thrive on multitasking and still hope the universe grants me an extra pair of hands one day.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rengbas99&theme=gotham&hide_border=false)
+[Stats](https://github-readme-stats.vercel.app/api?username=rengbas99&theme=gotham&hide_border=false)
