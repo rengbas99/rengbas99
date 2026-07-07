@@ -1,4 +1,4 @@
-# Renganatha Baskar
+# Renganatha Raam Baskar
 
 Full-stack engineer in London building spatial interfaces, real-time 3D, and AI-native products.
 
@@ -8,7 +8,7 @@ Full-stack engineer in London building spatial interfaces, real-time 3D, and AI-
 
 **Open to collaborate on:** AR, VR, and MR design and development, AI pipelines, immersive commerce.
 
-**How I work:** Cursor and Claude Code daily. My repos ship with agent rule files, not chat-window paste.
+**How I work:** Cursor and Claude Code daily, directed with agent rule files rather than chat-window paste.
 
 ## Featured
 
@@ -26,8 +26,6 @@ TypeScript · React 19 · Next.js · Three.js / React Three Fiber · Node.js · 
 
 ## Elsewhere
 
-[Portfolio](https://renganathaportfolio.squarespace.com) · [LinkedIn](https://www.linkedin.com/in/renganatha-raam-baskar-1186531b6/) · rengab99@gmail.com
+· [LinkedIn](https://www.linkedin.com/in/renganatha-raam-baskar-1186531b6/) · rengab99@gmail.com
 
 ⚡ Fun fact: I thrive on multitasking and still hope the universe grants me an extra pair of hands one day.
-
-[Stats](https://github-readme-stats.vercel.app/api?username=rengbas99&theme=gotham&hide_border=false)
